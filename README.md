@@ -6,7 +6,7 @@ The pipeline covers **data ingestion, cleaning, data warehousing, dimensional mo
 ---
 ## 📊 Power BI Dashboard Preview
 
-Below is the interactive dashboard built as the final reporting layer of the data engineering pipeline:
+Below is the dashboard built as the final reporting layer of the data engineering pipeline:
 
 ![Zomato Power BI Dashboard](./dashboard.png)
 ---
